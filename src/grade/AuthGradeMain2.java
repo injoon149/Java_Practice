@@ -1,3 +1,5 @@
+package grade;
+
 import java.util.Scanner;
 
 public class AuthGradeMain2 {

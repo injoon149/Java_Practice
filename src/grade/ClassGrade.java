@@ -1,3 +1,5 @@
+package grade;
+
 public class ClassGrade {
     public static final ClassGrade BASIC = new ClassGrade(10);
     public static final ClassGrade GOLD = new ClassGrade(20);

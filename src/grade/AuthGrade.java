@@ -1,3 +1,5 @@
+package grade;
+
 public enum AuthGrade {
     GUEST(1, "손님"),
     LOGIN(2, "로그인 회원"),

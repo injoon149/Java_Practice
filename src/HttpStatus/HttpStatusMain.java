@@ -1,3 +1,5 @@
+package HttpStatus;
+
 import java.util.Scanner;
 
 public class HttpStatusMain {
